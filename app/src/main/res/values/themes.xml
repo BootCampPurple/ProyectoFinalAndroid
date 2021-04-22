@@ -12,4 +12,7 @@
 
         <item name="android:actionMenuTextColor">@color/colorPrimary</item>
     </style>
+
+
+
 </resources>
